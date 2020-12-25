@@ -1,6 +1,7 @@
 # CU-FIN-PT-12-2020-Homework-1
 
 # Ant Financial: Platform Strategy Fintech Vanguard
+![Alt Text](https://github.com/mie-iwasa/CU-FIN-PT-12-2020-Homework-1/blob/main/pngkit_moneygram-png_3397305.png)
 
 ## Overview:
 Ant Financial is headquartered in Hangzhou, China and was established as a part of Alibaba in 2004 by Jack Ma and with the inception of Alipay (later rebranded as “Ant Financial”). It was spun-off from the Chinese e-commerce giant Alibaba in 2014 and is the largest fintech company in the world based on revenues, volumes, and number of customers. The firm provides a wide range of services spanning from mobile and online payments (Alipay), money market funds (Yu ‘eBao), wealth management (Ant Fortune), digital-online banking (MYbank), credit scoring (Zhima Credit), consumer credit portals (Ant Credit Pay, Huabei), cloud and blockchain technology platforms (Ant Financial Cloud, AntChain), insurance service platforms (Haoyibao, Quanminbao, Xianghubao), and green environment (Ant Forest).
