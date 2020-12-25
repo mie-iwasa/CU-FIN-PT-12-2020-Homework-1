@@ -19,24 +19,15 @@ The firm’s focus is to engender trust in the financial ecosystem and deepen fi
 
 Ant Financial is China’s largest fintech player and has enjoyed market power as a first mover. The firm’s scale and scope are driven by it being part of Alibaba’s e-commerce ecosystem and its focus on technology, customer engagement, and partnership model with financial institutions. Key business statistics as of June 30, 2020:
 
-*	1 billion+: Annual active users of the Alipay app
-*	711 million: Monthly active users of the Alipay app
-*	729 million: Alipay app digital finance annual active users
-*	80 million: Alipay app monthly active merchants
-*	16,660: Full-time employees as of June 30, 2020
-*	2,000+: Number of partner financial institutions
-*	200+: Countries and regions with online payment services
-*	RMB 118 trillion: Total payment volume in mainland China
-*	RMB 4.1 trillion: InvestmentTech AUM
-*	RMB 1.7/0.4 trillion: CreditTECH consumer/SMB credit balance
-*	RMB 52 billion: InsureTech insurance premiums and contributions
+![Alt Text](https://github.com/mie-iwasa/CU-FIN-PT-12-2020-Homework-1/blob/main/Ant%20Financial%20Summary%20Stats.png)
 
 Technology is the foundation of Ant Financial. “Key technology capabilities include AI, machine learning, NLP, image recognition, face recognition, risk management, security, blockchain,” as well as IoT, cloud computing and technology infrastructure. The firm has “patented and scaled up the use of consensus algorithm, smart contract, multi-party computing, and other blockchain based technologies within different use cases. Leveraging these advanced technologies, the firm has built several blockchain based platforms such as AntChain and a supply chain collaboration network.”
 
 ## Landscape:
 Ant Financial’s growth has been driven by the opening and development of the Chinese domestic financial and consumer market, digitization, big data, and cheaper computing. Not having had any incumbent payments nor credit systems, the Chinese market was well-positioned to ride the technology and mobile phone boom of the 2000s together with the increase in Chinese consumer spend power. “China’s digital payment infrastructure was relatively undeveloped, with cash usage still very high in the early 2000s.” In 2010, Alipay’s independent payment method received official government endorsement, “allowing it to develop largely free of compliance costs and regulatory restrictions.” Over the last 5-10 years, the Chinese consumer together with the Chinese economy has grown massively with increasing consumption to GDP. During this time, the number of unbanked and underserved Chinese decreased with the expansion of Ant Financial products through its mobile phone app. Ant Financial’s  various consumer offerings are accessible via the mobile phone app as well as offline via web and QR Codes. The firm utilizes AI, machine learning, NLP, and blockchain to drive its ability to unlock customer patterns and tastes as well as drive cost and supply chain optimization, risk assessment and risk management.  
 
-Ant Financial operates in the following fintech domains: Payments/billing, investment/wealth management, insurance, personal finance/deposits/online banking, lending, blockchain, robo-advising, and enterprise solutions. Domestic competitors include Tencent (WeChat Pay), JD.com, and Ping An. International competitors include among others Adyen, Avant, PayPal, Klarna, Oscar, Venmo, Stripe, FICO, Visa, Mastercard, Charles Schwab, Lufax, SoFi, and Zero. As of now, Ant Financial is the largest player with such a vast financial ecosystem.  
+Ant Financial operates in the following fintech domains: Payments/billing, investment/wealth management, insurance, personal finance/deposits/online banking, lending, blockchain, robo-advising, and enterprise solutions. Domestic competitors include Tencent (WeChat Pay), JD.com, and Ping An. International competitors include among others Adyen, Avant, PayPal, Klarna, Oscar, Venmo, Stripe, FICO, Visa, Mastercard, Charles Schwab, Lufax, SoFi, and Zero. As of now, Ant Financial is the largest player with such a vast financial ecosystem.
+
 ![Alt Text](https://github.com/mie-iwasa/CU-FIN-PT-12-2020-Homework-1/blob/main/China%20Fintech%20Landscape.png)
 
 ## Results:
@@ -52,28 +43,24 @@ Given the pending introduction of the digital yuan by the People’s Bank of Chi
 As a digital enabler of financial services, the firm should also continue expanding into urban and life services such as digital medicine, fitness, charity, food delivery and education, thereby establishing itself as a “LifeTech” firm rather than “FinTech”.
 
 ## Reference:
-Ant Group Website, https://www.antgroup.com/.
+1. Ant Group Website, https://www.antgroup.com/.
 
-Ant Financial S-1 SEC Filing, https://www1.hkexnews.hk/app/sehk/2020/102484/documents/sehk20082500535.pdf.
+1. Ant Financial S-1 SEC Filing, https://www1.hkexnews.hk/app/sehk/2020/102484/documents/sehk20082500535.pdf.
 
-Marc Rubinstein, “How Ant Group Became the Biggest Fintech Company in the World”, Market, August 28, 2020, https://marker.medium.com/how-ant-group-became-the-biggest-fintech-company-in-the-world-7afae29ec1d3.
+1. Marc Rubinstein, “How Ant Group Became the Biggest Fintech Company in the World”, Market, August 28, 2020, https://marker.medium.com/how-ant-group-became-the-biggest-fintech-company-in-the-world-7afae29ec1d3.
 
-Christopher Zara, “Jack Ma’s Ant Group Gears Up For What Could Be the Greatest IPO in History”, Fast Company, August 25, 2020, https://www.fastcompany.com/90543469/jack-mas-ant-group-gears-up-for-what-could-be-the-biggest-ipo-in-history.
+1. Christopher Zara, “Jack Ma’s Ant Group Gears Up For What Could Be the Greatest IPO in History”, Fast Company, August 25, 2020, https://www.fastcompany.com/90543469/jack-mas-ant-group-gears-up-for-what-could-be-the-biggest-ipo-in-history.
 
-Michael Wade and Elizabeth Teracino, “Ant Group is Holding The Biggest IPO of All Time – Here’s What It Is”, The Conversation, October 29, 2020, https://theconversation.com/ant-group-is-holding-the-biggest-ipo-of-all-time-heres-what-it-is-147403.
+1. Michael Wade and Elizabeth Teracino, “Ant Group is Holding The Biggest IPO of All Time – Here’s What It Is”, The Conversation, October 29, 2020, https://theconversation.com/ant-group-is-holding-the-biggest-ipo-of-all-time-heres-what-it-is-147403.
 
-“What Makes Ant Financial a Successful Fintech?”, Mint Studios, October 16, 2020, https://www.mintcopywritingstudios.com/blog/ant-financial-successful-fintech.
+1. “What Makes Ant Financial a Successful Fintech?”, Mint Studios, October 16, 2020, https://www.mintcopywritingstudios.com/blog/ant-financial-successful-fintech.
 
-Feng Zhu, et al., “Ant Financial (A)”, Harvard Business School, March 13, 2019, https://www.hbs.edu/faculty/Pages/item.aspx?num=52493.
+1. Feng Zhu, et al., “Ant Financial (A)”, Harvard Business School, March 13, 2019, https://www.hbs.edu/faculty/Pages/item.aspx?num=52493.
 
-Robert Hackett, “Why Regulators Sidelined Ant Financial’s Record-Setting IPO”, Fortune, November 3, 2020, https://fortune.com/2020/11/03/ant-financial-ipo-record-alipay-hong-kong-shanghai-stock-exchange/.
+1. Robert Hackett, “Why Regulators Sidelined Ant Financial’s Record-Setting IPO”, Fortune, November 3, 2020, https://fortune.com/2020/11/03/ant-financial-ipo-record-alipay-hong-kong-shanghai-stock-exchange/.
 
-“Most Innovative Companies: Ant Financial”, Fast Company, https://www.fastcompany.com/company/ant-financial.
+1. “Most Innovative Companies: Ant Financial”, Fast Company, https://www.fastcompany.com/company/ant-financial.
 
-“KPMG’s Fintech 100: The World’s Top 50 Fintechs by Industry Sector”, Finleap, https://www.finleap.com/insights/sectors-of-the-top-50-fintechs/.
+1. “KPMG’s Fintech 100: The World’s Top 50 Fintechs by Industry Sector”, Finleap, https://www.finleap.com/insights/sectors-of-the-top-50-fintechs/.
 
-Ty Haqqi, “17 Largest Fintech Companies in the World”, Yahoo!Life, December 1, 2020, https://www.yahoo.com/lifestyle/17-largest-fintech-companies-world-193445490.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAJVFqlD-Z8oCZUCXtFDBX3VJ2ySUxRFomIazlTo888GZslqc803MsCzHkJQsMXtFyfTZaiXhI3jtwo6-hrwAFSUpW5DcI77dgW-x8EiHcttoFEu1aaSMMi4-NM_kyZjxCo6w_hMayxSjKoe6epifus1mRZshGabbVkJ0Osn3QUvW.
-
-
-
-
+1. Ty Haqqi, “17 Largest Fintech Companies in the World”, Yahoo!Life, December 1, 2020, https://www.yahoo.com/lifestyle/17-largest-fintech-companies-world-193445490.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAJVFqlD-Z8oCZUCXtFDBX3VJ2ySUxRFomIazlTo888GZslqc803MsCzHkJQsMXtFyfTZaiXhI3jtwo6-hrwAFSUpW5DcI77dgW-x8EiHcttoFEu1aaSMMi4-NM_kyZjxCo6w_hMayxSjKoe6epifus1mRZshGabbVkJ0Osn3QUvW.
