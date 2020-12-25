@@ -16,17 +16,19 @@ On a fully diluted, pre-IPO basis, Ant Financial is owned by Alibaba (33%), mana
 The firm’s focus is to engender trust in the financial ecosystem and deepen financial inclusion. The firm was “founded to champion the small and the underserved, in the belief that open technology platforms could help service providers and institutions to reach customers that previously were not accessible.” 
 
 Ant Financial is China’s largest fintech player and has enjoyed market power as a first mover. The firm’s scale and scope are driven by it being part of Alibaba’s e-commerce ecosystem and its focus on technology, customer engagement, and partnership model with financial institutions. Key business statistics as of June 30, 2020:
-•	1 billion+: Annual active users of the Alipay app
-•	711 million: Monthly active users of the Alipay app
-•	729 million: Alipay app digital finance annual active users
-•	80 million: Alipay app monthly active merchants
-•	16,660: Full-time employees as of June 30, 2020
-•	2,000+: Number of partner financial institutions
-•	200+: Countries and regions with online payment services
-•	RMB 118 trillion: Total payment volume in mainland China
-•	RMB 4.1 trillion: InvestmentTech AUM
-•	RMB 1.7/0.4 trillion: CreditTECH consumer/SMB credit balance
-•	RMB 52 billion: InsureTech insurance premiums and contributions
+
+*	1 billion+: Annual active users of the Alipay app
+*	711 million: Monthly active users of the Alipay app
+*	729 million: Alipay app digital finance annual active users
+*	80 million: Alipay app monthly active merchants
+*	16,660: Full-time employees as of June 30, 2020
+*	2,000+: Number of partner financial institutions
+*	200+: Countries and regions with online payment services
+*	RMB 118 trillion: Total payment volume in mainland China
+*	RMB 4.1 trillion: InvestmentTech AUM
+*	RMB 1.7/0.4 trillion: CreditTECH consumer/SMB credit balance
+*	RMB 52 billion: InsureTech insurance premiums and contributions
+
 Technology is the foundation of Ant Financial. “Key technology capabilities include AI, machine learning, NLP, image recognition, face recognition, risk management, security, blockchain,” as well as IoT, cloud computing and technology infrastructure. The firm has “patented and scaled up the use of consensus algorithm, smart contract, multi-party computing, and other blockchain based technologies within different use cases. Leveraging these advanced technologies, the firm has built several blockchain based platforms such as AntChain and a supply chain collaboration network.”
 
 ## Landscape:
