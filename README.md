@@ -1,7 +1,7 @@
 # CU-FIN-PT-12-2020-Homework-1
 
 # Ant Financial: Platform Strategy Fintech Vanguard
-![Alt Text](https://github.com/mie-iwasa/CU-FIN-PT-12-2020-Homework-1/blob/main/pngkit_moneygram-png_3397305.png)
+![Alt Text](https://github.com/mie-iwasa/CU-FIN-PT-12-2020-Homework-1/blob/main/Images/pngkit_moneygram-png_3397305.png)
 
 ## Overview:
 Ant Financial is headquartered in Hangzhou, China and was established as a part of Alibaba in 2004 by Jack Ma and with the inception of Alipay (later rebranded as “Ant Financial”). It was spun-off from the Chinese e-commerce giant Alibaba in 2014 and is the largest fintech company in the world based on revenues, volumes, and number of customers. The firm provides a wide range of services spanning from mobile and online payments (Alipay), money market funds (Yu ‘eBao), wealth management (Ant Fortune), digital-online banking (MYbank), credit scoring (Zhima Credit), consumer credit portals (Ant Credit Pay, Huabei), cloud and blockchain technology platforms (Ant Financial Cloud, AntChain), insurance service platforms (Haoyibao, Quanminbao, Xianghubao), and green environment (Ant Forest).
@@ -10,7 +10,7 @@ The firm “was created in the nascent days of e-commerce in China to solve the 
 
 The firm primarily earns digital payment services revenues by charging merchants transaction fees based on a percentage of volume and by charging technology service fees. Through its “CreditTech” businesses (Zhima Credit, Ant Credit Pay, Huabei, MYbank, Sesame Credit), Ant Financial generates technology service fees from partner financial institutions that are based on the credit balance originated through the firm’s platform. Through its “InvestmentTech” business (Ant Fortune), the firm earns technology service fees from partner financial institutions that are based on the volume of investment products distributed through the firm’s platform. Through its “InsureTech” businesses (Haoyibao, Quanminbao, Xianghubao), the firm receives technology service fees from partner insurance institutions based on a percentage of the insurance premiums and contributions generated through the firm’s platform. 
 
-![Alt Text](https://github.com/mie-iwasa/CU-FIN-PT-12-2020-Homework-1/blob/main/Alipay%20Capabilities%20Stack.png)
+![Alt Text](https://github.com/mie-iwasa/CU-FIN-PT-12-2020-Homework-1/blob/main/Images/Alipay%20Capabilities%20Stack.png)
 
 On a fully diluted, pre-IPO basis, Ant Financial is owned by Alibaba (33%), management and employees (51.2%), and domestic China investors (China’s national social security fund and China Investment Corporation, 15.8%). Alipay was supposed to go public in November 2020, with funds from the IPO aimed at further business development, investments, and growth, but the IPO was cancelled due to the Chinese government which is now assessing the Alipay’s parent Alibaba over monopolistic practices. 
 
@@ -19,7 +19,7 @@ The firm’s focus is to engender trust in the financial ecosystem and deepen fi
 
 Ant Financial is China’s largest fintech player and has enjoyed market power as a first mover. The firm’s scale and scope are driven by it being part of Alibaba’s e-commerce ecosystem and its focus on technology, customer engagement, and partnership model with financial institutions. Key business statistics as of June 30, 2020:
 
-![Alt Text](https://github.com/mie-iwasa/CU-FIN-PT-12-2020-Homework-1/blob/main/Ant%20Financial%20Summary%20Stats.png)
+![Alt Text](https://github.com/mie-iwasa/CU-FIN-PT-12-2020-Homework-1/blob/main/Images/Ant%20Financial%20Summary%20Stats.png)
 
 Technology is the foundation of Ant Financial. “Key technology capabilities include AI, machine learning, NLP, image recognition, face recognition, risk management, security, blockchain,” as well as IoT, cloud computing and technology infrastructure. The firm has “patented and scaled up the use of consensus algorithm, smart contract, multi-party computing, and other blockchain based technologies within different use cases. Leveraging these advanced technologies, the firm has built several blockchain based platforms such as AntChain and a supply chain collaboration network.”
 
